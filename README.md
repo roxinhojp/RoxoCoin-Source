@@ -1,10 +1,3 @@
-RoxoCoin integration/staging tree
-================================
-
-http://www.roxocoin.org
-
-Copyright (c) 2009-2013 RoxoCoin Developers
-
 What is RoxoCoin?
 ----------------
 
@@ -13,15 +6,6 @@ anyone, anywhere in the world. RoxoCoin uses peer-to-peer technology to operate
 with no central authority: managing transactions and issuing money are carried
 out collectively by the network. RoxoCoin is also the name of the open source
 software which enables the use of this currency.
-
-For more information, as well as an immediately useable, binary version of
-the RoxoCoin client software, see http://www.roxocoin.org.
-
-License
--------
-
-RoxoCoin is released under the terms of the MIT license. See `COPYING` for more
-information or see http://opensource.org/licenses/MIT.
 
 Development process
 -------------------
